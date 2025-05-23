@@ -1,0 +1,4 @@
+Name,Type,Location,Director,Doctors,Nurses,Cleaners,Management,Patients
+Centrol,general,Masaka,Akuzwe,12,13,12,5,300
+updatedHospital,updatedType,updatedLocation,updatedDirector,10,12,13,14,200
+Kiaka,private,Downtown,Gisele,10,12,45,12,400

@@ -1,0 +1,6 @@
+Name,Type,Location,Director,Doctors,Nurses,Cleaners,Management,Patients
+Butaro,general,burera,karangwa,10,12,14,5,600
+Byumba,general,byumba,Kabaka,10,25,30,12,500
+Centrol,general,Masaka,Akuzwe,12,13,12,5,300
+Kiaka,private,Downtown,Gisele,10,12,45,12,400
+updatedHospital,updatedType,updatedLocation,updatedDirector,10,12,13,14,200
